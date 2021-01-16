@@ -1,4 +1,4 @@
-### Hi and welcome 👋
+### Hello and welcome 👋
 ***
 
 My name is Evgene. I am a Front end developer. 
