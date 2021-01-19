@@ -2,7 +2,7 @@
 ***
 
 My name is Evgene. I am a Front end developer. 
-Here you can look at my projects
+Here you can look at my projects.
 
 <!--
 **JENIA89/JENIA89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
