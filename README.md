@@ -1,4 +1,3 @@
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpclegko.ru%2Fprogrammirovanie%2Fjazyk-programmirovanija-javascript.html&psig=AOvVaw1o5t_3JGMIci2uv76hoVxG&ust=1635966369417000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCLjAtO-v-vMCFQAAAAAdAAAAABAN">
 
 ### Hello and welcome 👋
 ***
