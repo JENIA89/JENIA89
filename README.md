@@ -2,7 +2,7 @@
 ### Hello and welcome 👋
 ***
 
-My name is Evgene. I am a Front End Developer. 
+My name is Evgene. I am a Software developer. 
 Here you can look at my projects.
 
 <!--
