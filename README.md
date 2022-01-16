@@ -2,7 +2,7 @@
 ### Hello and welcome 👋
 ***
 
-My name is Evgene. I am a Software developer. 
+My name is Evgene. I am a Software developer.
 Here you can look at my projects.
 
 <!--
